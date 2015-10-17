@@ -1,3 +1,5 @@
+#### How to create the extension
+
 To create the extension for chrome do the following steps:
 
 Open the Chrome browser and open Chrome's extension page, unfold "Developer Tools" and "Load unpacked extension...". 
@@ -7,7 +9,7 @@ Navigate to this project folder and load it.
 
 That's it. The extension is now in your Chrome browser. 
 
-### Pack it
+### How to Pack it
 
 If you want to pack it then navigate again to 
 the Chrome's extension page, unfold "Developer Tools" and "Load unpacked extension..." and push the 'Pack extension' button.
