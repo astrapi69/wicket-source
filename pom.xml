@@ -21,9 +21,9 @@
 	</licenses>
 	
 	<scm>
-		<connection>scm:git:git://github.com/42Lines/wicket-source.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/42Lines/wicket-source.git</developerConnection>
-		<url>http://github.com/42Lines/wicket-source</url>
+		<connection>scm:git:git://github.com/astrapi69/wicket-source.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/astrapi69/wicket-source.git</developerConnection>
+		<url>http://github.com/astrapi69/wicket-source</url>
 	</scm>
 
 	<developers>
@@ -38,7 +38,7 @@
 	</developers>
 
 	<properties>
-		<wicket.version>7.0.0-M1</wicket.version>
+		<wicket.version>7.0.0</wicket.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
